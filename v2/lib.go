@@ -1,4 +1,4 @@
-package itest
+package ltest
 
 const (
 	XXX = "xxx"
