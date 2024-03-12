@@ -1,6 +1,6 @@
-package itest
+package ltest
 
 const (
 	XXX = "xxx"
-	Ver = "v1"
+	Ver = "v0"
 )
