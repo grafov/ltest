@@ -1,3 +1,3 @@
-module github.com/grafov/ltest/v3
+module github.com/grafov/ltest
 
 go 1.22.0
