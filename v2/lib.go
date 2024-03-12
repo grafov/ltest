@@ -2,5 +2,5 @@ package itest
 
 const (
 	XXX = "xxx"
-	Ver = "v1"
+	Ver = "v2"
 )
