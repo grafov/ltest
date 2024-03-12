@@ -1,3 +1,6 @@
 package itest
 
-const XXX = "xxx"
+const (
+	XXX = "xxx"
+	Ver = "v1"
+)
