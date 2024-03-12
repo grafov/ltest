@@ -2,5 +2,5 @@ package ltest
 
 const (
 	XXX = "xxx"
-	Ver = "v0"
+	Ver = "v3"
 )
